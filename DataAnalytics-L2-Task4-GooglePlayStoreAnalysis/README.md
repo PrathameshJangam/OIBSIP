@@ -162,3 +162,18 @@ Overall, combining market competition, ratings, installations, pricing, and user
 
 ---
 
+## 👤 Author
+
+**Prathamesh Jangam**
+
+**Track:** Data Analytics
+
+**Task:** Google Play Store Analysis
+
+---
+
+## ⭐ Acknowledgement
+
+This project was completed as part of the **Oasis Infobyte Internship Program**.
+
+**Oasis Infobyte — Data Analytics Internship**
