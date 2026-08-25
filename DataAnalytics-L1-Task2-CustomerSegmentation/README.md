@@ -118,41 +118,30 @@ The final analysis identified **4 customer segments**.
 
 | Cluster | Customers | Avg. Recency | Avg. Frequency | Avg. Monetary | Customer % |
 |---|---:|---:|---:|---:|---:|
-| Cluster 0 | 713 | 12.17 | 13.75 | 8088.02 | 16.44% |
-| Cluster 1 | 1622 | 181.51 | 1.32 | 341.00 | 37.39% |
-| Cluster 2 | 837 | 17.70 | 2.19 | 557.32 | 19.29% |
-| Cluster 3 | 1166 | 71.64 | 4.08 | 1801.78 | 26.88% |
+| Cluster 0 | 826 | 58.41 | 2.88 | 1291.85 | 28.41% |
+| Cluster 1 | 445 | 12.20 | 1.78 | 499.10 | 15.31% |
+| Cluster 2 | 1244 | 114.28 | 1.13 | 280.26 | 42.79% |
+| Cluster 3 | 392 | 14.67 | 9.81 | 5572.12 | 13.48% |
 
 ---
 
 ## Customer Segments
 
-### Cluster 0 — High-Value Loyal Customers
+### Cluster 0 — High-Value Customers
 
-These customers purchase frequently, have purchased recently, and have the highest spending.
+These customers have relatively recent purchases, good purchase frequency, and high monetary value.
 
 **Marketing Action:**
 
 - VIP rewards
 - Exclusive offers
-- Early access to products
+- Early access to new products
 - Personalized recommendations
 - Loyalty benefits
 
-### Cluster 1 — At-Risk / Inactive Customers
+### Cluster 1 — Recent Low-Engagement Customers
 
-These customers have not purchased recently and have low purchase frequency and spending.
-
-**Marketing Action:**
-
-- Win-back campaigns
-- Personalized discounts
-- Re-engagement emails
-- Limited-time offers
-
-### Cluster 2 — Recent Low-Engagement Customers
-
-These customers have purchased recently but have relatively low purchase frequency and spending.
+These customers have purchased very recently but have low purchase frequency and moderate spending.
 
 **Marketing Action:**
 
@@ -161,26 +150,37 @@ These customers have purchased recently but have relatively low purchase frequen
 - Product recommendations
 - Loyalty program invitations
 
-### Cluster 3 — Regular / Potential Loyal Customers
+### Cluster 2 — At-Risk / Inactive Customers
 
-These customers have moderate purchase frequency and relatively high spending.
+These customers have not purchased recently, have the lowest purchase frequency, and have low monetary value. They also represent the largest customer segment.
 
 **Marketing Action:**
 
-- Loyalty rewards
+- Win-back campaigns
+- Personalized discounts
+- Re-engagement emails
+- Limited-time offers
+
+### Cluster 3 — Highly Valuable Loyal Customers
+
+These customers have very high purchase frequency and the highest monetary value, making them the most valuable customer segment.
+
+**Marketing Action:**
+
+- Premium loyalty programs
+- Exclusive rewards
 - Personalized offers
 - Cross-selling
-- Product bundles
-- Repeat-purchase incentives
+- Upselling opportunities
 
 ---
 
 ## Key Insights
 
-- Cluster 0 represents the most valuable customer group.
-- Cluster 1 is the largest segment and represents an important opportunity for re-engagement.
-- Cluster 2 contains recent customers who can be encouraged to make repeat purchases.
-- Cluster 3 contains customers with good spending potential who could become high-value customers.
+- Cluster 0 represents high-value customers who should be targeted with loyalty-focused strategies.
+- Cluster 1 contains recent customers who can be encouraged to make repeat purchases.
+- Cluster 2 is the largest segment and represents an important opportunity for re-engagement.
+- Cluster 3 contains the most valuable and loyal customers and should be prioritized for retention.
 - Different customer segments require different marketing strategies.
 
 ---
